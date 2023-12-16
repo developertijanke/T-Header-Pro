@@ -6,8 +6,9 @@
 
 ### Installation and usage guide
 ```
-```
 $ apt-get update -y
+```
+
 ```
 ```
 $ apt-get upgrade -y
