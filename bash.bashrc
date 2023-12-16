@@ -27,6 +27,7 @@ echo""
 echo""
 echo "               "/█1%...................../
 sleep 1.0
+mpv /sdcard/scifi.mp3
 clear
 echo " "
 echo " "
@@ -77,6 +78,7 @@ echo " "
 echo " "
 echo "                "/█████████████50%............./
 sleep 1.0
+mpv /sdcard/scifi.mp3
 clear
 echo " "
 echo " "
