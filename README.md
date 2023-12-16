@@ -2,8 +2,6 @@
 <p align="center">
 <a href="https://github.com/developertijanke"><img title="Developer Tijan" src="https://github.com/developertijanke/T-Header-Pro/blob/main/t-header-pro.png?raw=true"></a>
 
-* For Termux
-
 ### Installation and usage guide
 ```
 apt-get update -y
@@ -18,7 +16,7 @@ pkg install git -y
 ```
 
 ```
-$ git clone https://github.com/#####
+$ git clone https://github.com/developertijanke/T-Header-Pro.git
 ```
 
 ```
