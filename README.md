@@ -1,6 +1,6 @@
 # T-Header-Pro with Sound Effect- Developer tijan
 <p align="center">
-<a href="https://github.com/developertijanke"><img title="Developer Tijan" src="https://github.com/developertijanke/tijan-track-ip-termux/blob/main/trackip.png?raw=true"></a>
+<a href="https://github.com/developertijanke"><img title="Developer Tijan" src="https://github.com/developertijanke/T-Header-Pro/blob/main/t-header-pro.png?raw=true"></a>
 
 * For Termux
 
