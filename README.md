@@ -6,15 +6,17 @@
 
 ### Installation and usage guide
 ```
-$ apt-get update -y
+apt-get update -y
 ```
 
 ```
+apt-get upgrade -y
 ```
-$ apt-get upgrade -y
+
 ```
+pkg install git -y
 ```
-$ pkg install git -y
+
 ```
 ```
 $ git clone https://github.com/#####
